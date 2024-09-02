@@ -1,6 +1,34 @@
 # Chat Application
 A real-time web chat application built with HTML, CSS, JavaScript, Node.js, and Socket.io. This project allows users to send text messages, see the total number of participants, and receive notifications about who joins or leaves the server. Perfect for learning about web sockets and real-time communication.
 
+# Features
+**1. Real-Time Messaging✨ :** Send and receive messages instantly.  <br>
+**2. Participant Count👥 :** Display the total number of participants currently in the chat. <br>
+**3. Join/Leave Notifications🔔 :** Receive notifications when users join or leave the chat room. <br>
+
+# Usage
+**1. Open your web browser🌐 :** Navigate to http://localhost:3000 to access the chat application. This is the address where the server is running locally. <br>
+
+**2. Enter your username📝 :** You will be prompted to enter a username. Choose a unique name that will identify you in the chat room. <br>
+
+**3. Start chatting🗨️ :** Once you've entered your username, you'll be able to send and receive messages in real time. Simply type your message in the input field and hit "Send" to communicate with other participants. <br>
+
+**4. View participants👁️ :** You can see the total number of active participants in the chat room, which updates automatically as users join or leave. <br>
+
+**5. Receive notifications🔔 :** Stay informed with notifications about who joins or leaves the chat room. This helps you keep track of the active users and maintain an engaging chat environment. <br>
+
+**6. Refresh to reconnect🔄 :** If you experience any issues or if the chat application disconnects, simply refresh the page to reconnect to the chat server. 
+
+# Technologies Used
+**1. HTML :** For structuring the web pages. <br>
+**2. CSS :** For styling the chat interface. <br>
+**3. JavaScript :** For client-side interactivity. <br>
+**4. Node.js :** For server-side logic and handling real-time connections. <br>
+**5. Socket.io :** For enabling real-time, bidirectional communication between clients and the server. <br>
+
+# Contact
+For any inquiries or feedback please contact, <br> 📧 prathamsingh19102003@gmail.com
+
 ## Screenshots
 ![img1](https://github.com/user-attachments/assets/771b2e9d-2b2e-4efc-8f29-78a1156344e7)
 
@@ -19,19 +47,3 @@ A real-time web chat application built with HTML, CSS, JavaScript, Node.js, and 
 ![img8](https://github.com/user-attachments/assets/a9592281-7014-4ff4-ae12-2d3d33870189)
 
 
-
-
-## Technologies Used
-
-This project is created by using following
-technologies:
-
-- Visual Studio Code
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Socket.io
-
-
-## THANK YOU
