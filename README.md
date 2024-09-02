@@ -1,4 +1,5 @@
 # Chat Application
+A real-time web chat application built with HTML, CSS, JavaScript, Node.js, and Socket.io. This project allows users to send text messages, see the total number of participants, and receive notifications about who joins or leaves the server. Perfect for learning about web sockets and real-time communication.
 
 ## Screenshots
 ![img1](https://github.com/user-attachments/assets/771b2e9d-2b2e-4efc-8f29-78a1156344e7)
